@@ -2,7 +2,6 @@
 
 A clean and simple login UI and registration with a basi chero animation in Flutter, a mobile sdk framework by Google. This project is based off of [flutter-login-ui](https://github.com/putraxor/flutter-login-ui) and is designed to kick start flutter application development for those using Flutter.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)][mitLink]
 
 ![Login UI Flutter](thumbnails/thumbnail.jpg)
 
